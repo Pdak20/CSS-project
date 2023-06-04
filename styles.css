@@ -1,6 +1,29 @@
 
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
 
+button {
+    height: 50px;
+    width: 70px;
+}
 
+.Results {
+    text-align: center;
+    size: 40px;
+}
 
+.Scores {
+    display:flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
 
-
+.rounds {
+    justify-content: center;
+    text-align: center;
+}
